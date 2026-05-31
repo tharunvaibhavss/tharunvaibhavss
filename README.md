@@ -187,14 +187,43 @@ print(me.motto())
 
 <div align="center">
 
-![IBM](https://img.shields.io/badge/Data_Science_101-IBM-054ADA?style=flat-square&logo=ibm&logoColor=white)
-![NPTEL](https://img.shields.io/badge/Python_for_Data_Science-NPTEL-FF6B00?style=flat-square&logoColor=white)
-![Simplilearn](https://img.shields.io/badge/Power_BI_for_Beginners-Simplilearn-02A9E0?style=flat-square&logo=powerbi&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/Learning_Excel_Microsoft_365-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)
-![PSG](https://img.shields.io/badge/Linux_Shell_Programming-PSGCAS-FCC624?style=flat-square&logo=linux&logoColor=black)
+| 🏅 | Course | Institution |
+|:---:|:-------|:-----------:|
+| 🔐 | **Network Security** | Great Learning |
+| 🤖 | **Attended Automation for RPA Developers** | UiPath Academy |
+| 🧠 | **Train ML Models for Document Understanding** | UiPath Academy |
+| 🖥️ | **UI Automation with Modern Design in Studio** | UiPath Academy |
+| 📊 | **Excel Automation with Modern Experience in Studio** | UiPath Academy |
+| 🔄 | **Control Flow in Studio** | UiPath Academy |
+| 🧮 | **Variables, Constants and Arguments in Studio** | UiPath Academy |
+| ⚙️ | **Build your first process with Studio** | UiPath Academy |
+| 🔍 | **Explore Automation Development with UiPath Studio** | UiPath Academy |
+| 📈 | **Data Science 101** | IBM |
+| 🐍 | **Python for Data Science** | NPTEL |
+| 📣 | **Fundamentals of Digital Marketing** | Google |
+| 💼 | **AI and Business Strategy: Case Studies** | LinkedIn |
+| 🗣️ | **How to Talk to Anyone (Blinkist)** | LinkedIn |
+| 📉 | **Learning Excel Desktop (Microsoft 365)** | LinkedIn |
+| 📊 | **Power BI for Beginners** | Simplilearn |
+| 🛡️ | **Ethical Hacking for Beginners** | Simplilearn |
+| 🐧 | **Linux Shell Programming** | PSG College of Arts & Science |
 
 </div>
 
+<div align="center">
+
+![UiPath](https://img.shields.io/badge/UiPath_Academy-FA4616?style=flat-square&logo=uipath&logoColor=white)
+![IBM](https://img.shields.io/badge/Data_Science_101-054ADA?style=flat-square&logo=ibm&logoColor=white)
+![NPTEL](https://img.shields.io/badge/Python_for_Data_Science-FF6B00?style=flat-square&logoColor=white)
+![Google](https://img.shields.io/badge/Digital_Marketing-4285F4?style=flat-square&logo=google&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/AI_%26_Business_Strategy-0077B5?style=flat-square&logo=linkedin&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/Learning_Excel_365-0077B5?style=flat-square&logo=linkedin&logoColor=white)
+![Simplilearn](https://img.shields.io/badge/Power_BI_Beginners-02A9E0?style=flat-square&logo=powerbi&logoColor=white)
+![Simplilearn](https://img.shields.io/badge/Ethical_Hacking-E00?style=flat-square&logo=hackthebox&logoColor=white)
+![GreatLearning](https://img.shields.io/badge/Network_Security-0B3D91?style=flat-square&logo=cisco&logoColor=white)
+![PSG](https://img.shields.io/badge/Linux_Shell_Programming-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</div>
 ---
 
 ## 🌱 Currently Learning
