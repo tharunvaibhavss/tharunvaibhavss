@@ -1,16 +1,270 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tharun%20Vaibhav%20S%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Dev%20%7C%20AI%20%26%20IoT%20Builder%20%7C%20Data%20Enthusiast&descAlignY=62&descSize=16" width="100%"/>
 
-<!--
-**tharunvaibhavss/tharunvaibhavss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Tharun+Vaibhav+%F0%9F%91%8B;Full+Stack+Developer+%7C+MCA+%40+PSGCAS;Building+AI+%2B+IoT+solutions+that+matter;Hackathon+Winner+%7C+Best+MVP+2026+%F0%9F%8F%86;Turning+Data+into+Decisions+%F0%9F%93%8A)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Profile Views](https://komarev.com/ghpvc/?username=tharunvaibhavss&style=flat-square&color=70a5fd&label=Profile+Views)](https://github.com/tharunvaibhavss)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tharun--vaibhav--s--s-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tharun-vaibhav-s-s)
+[![GitHub](https://img.shields.io/badge/GitHub-tharunvaibhavss-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tharunvaibhavss)
+[![Email](https://img.shields.io/badge/Email-tharunvaibhavsaminathan%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tharunvaibhavsaminathan@gmail.com)
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+```python
+class TharunVaibhav:
+    def __init__(self):
+        self.name        = "Tharun Vaibhav S S"
+        self.location    = "Erode, Tamil Nadu 🇮🇳"
+        self.degree      = "MCA @ PSG College of Arts & Science (2027)"
+        self.role        = "Full Stack Developer & AI/IoT Enthusiast"
+
+        self.stack = [
+            "Python", "Java", "HTML/CSS", "JavaScript",
+            "MySQL", "MongoDB", "Power BI", "Tableau"
+        ]
+
+        self.currently_learning = [
+            "Advanced Machine Learning",
+            "Cloud Deployment (AWS / GCP)",
+            "React & Modern JS Frameworks",
+            "System Design"
+        ]
+
+        self.fun_fact = (
+            "I won Best MVP at a 24-hour national hackathon 🏆 "
+            "and built 4+ live business websites during my internship!"
+        )
+
+    def motto(self):
+        return "Build. Break. Learn. Repeat. 🔁"
+
+me = TharunVaibhav()
+print(me.motto())
+```
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Web Technologies**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Wix](https://img.shields.io/badge/Wix-FAAD08?style=flat-square&logo=wix&logoColor=black)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Data & Analytics**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+**Tools & Platforms**
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![SEO](https://img.shields.io/badge/SEO_Tools-4285F4?style=flat-square&logo=googlesearchconsole&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/tharunvaibhavss">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tharunvaibhavss&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+</a>
+<a href="https://github.com/tharunvaibhavss">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharunvaibhavss&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+</a>
+
+</div>
+
+---
+
+## 🔥 Streak Stats
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=tharunvaibhavss&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Tharun's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tharunvaibhavss&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/tharunvaibhavss)
+
+</div>
+
+---
+
+## 🏆 Trophy Wall
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=tharunvaibhavss&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 💼 Work Experience
+
+<details>
+<summary><b>🏢 Dyzen Consultants — Software Development Intern &nbsp;|&nbsp; 10 Months &nbsp;|&nbsp; 2026 &nbsp;|&nbsp; Remote/Tamil Nadu</b></summary>
+
+<br/>
+
+> ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Wix](https://img.shields.io/badge/Wix-FAAD08?style=flat-square&logo=wix&logoColor=black) ![SEO](https://img.shields.io/badge/SEO-4285F4?style=flat-square&logo=googlesearchconsole&logoColor=white)
+
+- 🚀 Developed and deployed **4+ scalable web applications**, improving user engagement and reducing bounce rate by **25–30%**
+- 🔍 Optimized website performance using **SEO and structured data techniques**, significantly increasing traffic and search visibility
+- 📊 Applied **user behavior analytics** to enhance UI/UX and boost conversion rates across client platforms
+- 🌐 Delivered end-to-end solutions from design to deployment with measurable business impact
+
+</details>
+
+<details>
+<summary><b>🏢 Thiruvusoft — ERP Software Development Intern &nbsp;|&nbsp; 2 Weeks &nbsp;|&nbsp; 2025 &nbsp;|&nbsp; Tamil Nadu</b></summary>
+
+<br/>
+
+> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white) ![ETL](https://img.shields.io/badge/ETL-6DB33F?style=flat-square&logoColor=white)
+
+- 🗄️ Streamlined **ERP workflows** using SQL queries and data transformation across Finance, Inventory, and HR modules, cutting manual processing time by **15–20%**
+- ⚡ Improved data pipeline efficiency and structured data handling by **30%**, enhancing system usability and reporting accuracy
+- 📋 Assisted in optimizing data flows across multi-module ERP systems for measurable operational gains
+
+</details>
+
+<details>
+<summary><b>🏢 Akkroni Craft — Software Developer Intern &nbsp;|&nbsp; 20 Days &nbsp;|&nbsp; 2025 &nbsp;|&nbsp; Tamil Nadu</b></summary>
+
+<br/>
+
+> ![SEO](https://img.shields.io/badge/SEO-4285F4?style=flat-square&logo=googlesearchconsole&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![Design](https://img.shields.io/badge/UI%2FUX-FF61F6?style=flat-square&logo=figma&logoColor=white)
+
+- 📈 Boosted digital presence by improving **website structure through SEO implementation and web data analysis**
+- ✉️ Enhanced brand communication by designing **email templates and business materials** using structured content strategies
+
+</details>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Stack | Highlights |
+|:-------:|:-----:|:-----------|
+| [**⚡ Enervision — AI Energy Audit System**](https://github.com/tharunvaibhavss/enervision) | Python · IoT · AI/ML · Power BI | 🔋 Achieved **20–25% energy savings** via predictive models · Real-time anomaly detection · Interactive sustainability dashboards |
+| [**💧 Water Quality Monitoring System**](https://github.com/tharunvaibhavss/wqt) | Python · IoT · Sensors · Data Analysis | 📡 Real-time monitoring of pH, TDS, turbidity & temperature · Accurate environmental insights from sensor data |
+| [**🌐 Technoverse — Intra-College Event App**](https://technoverse.framer.website) | Framer · UI/UX · Responsive Design | 🎯 Smooth user access · Structured navigation · Optimized performance across all devices |
+| [**🏢 Client Website Portfolio**](https://github.com/tharunvaibhavss/websites) | HTML · CSS · JS · Wix · SEO | 📊 **4+ live business websites** deployed · Responsive design · SEO-optimized · 25–30% bounce rate reduction |
+
+</div>
+
+---
+
+## 🏅 Achievements
+
+<div align="center">
+
+| 🎖️ | Achievement | Details |
+|:---:|:------------|:--------|
+| 🏆 | **Best MVP — Hack-Arti-Thon 2.0** | Won Best Minimum Viable Product at a **24-hour national-level hackathon** (2026) — rapid prototyping & problem-solving |
+| 🥇 | **Best Performance — IoT Innovative Expo** | Awarded for innovation and technical excellence in **IoT-Based Technology** (2026) |
+| 🤝 | **Student Coordinator — Hackverse 2026** | Active coordinator supporting ideation and innovation-driven development at the Mini Hackathon |
+| 🌱 | **NABARD Leadership Training** | Completed NABARD-funded training on **Managerial Skills, Leadership & Team Building for Startups** (2025) |
+| 💡 | **Socio-Tech Hackathon 2024** | Designed solutions addressing **Anti-Drug challenges** at a real-world social hackathon |
+| 🇮🇳 | **Smart India Hackathon 2023** | Collaborated on **Student Dropout Analysis** and AICTE innovation challenges |
+| 🎤 | **Resource Person — I&E Bootcamp 2.0** | Delivered sessions on **digital outreach and entrepreneurship** (2026) |
+| ⚖️ | **Evaluator — Entrepreneur 2026** | Assessed innovative ideas and contributed to event success as an official evaluator |
+
+</div>
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+| Degree | Institution | Year | Score |
+|:------:|:-----------:|:----:|:-----:|
+| 🎓 **MCA** (Master of Computer Application) | PSG College of Arts & Science | 2025 – 2027 | **80.1%*** |
+| 🎓 **B.Sc Information Technology** | PSG College of Arts & Science | 2022 – 2025 | **75.9%** |
+| 📚 Higher Secondary (12th) | Velalar Vidyalayaa Senior Secondary School | May 2022 | **78.6%** |
+| 📚 Secondary School (10th) | Velalar Vidyalayaa Senior Secondary School | March 2020 | **78.8%** |
+
+</div>
+
+---
+
+## 📜 Certifications
+
+<div align="center">
+
+![IBM](https://img.shields.io/badge/Data_Science_101-IBM-054ADA?style=flat-square&logo=ibm&logoColor=white)
+![NPTEL](https://img.shields.io/badge/Python_for_Data_Science-NPTEL-FF6B00?style=flat-square&logoColor=white)
+![Simplilearn](https://img.shields.io/badge/Power_BI_for_Beginners-Simplilearn-02A9E0?style=flat-square&logo=powerbi&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/Learning_Excel_Microsoft_365-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)
+![PSG](https://img.shields.io/badge/Linux_Shell_Programming-PSGCAS-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+```
+🤖 Machine Learning     →  Supervised Learning, Predictive Modeling, Anomaly Detection
+☁️  Cloud Platforms      →  AWS (EC2, S3), GCP Basics, Serverless Architecture
+⚛️  React.js             →  Hooks, Component Design, REST API Integration
+🗄️  System Design        →  Scalable Architecture, Microservices, Caching
+📊 Advanced Analytics   →  Time Series Forecasting, Dashboard Optimization
+🔗 APIs & Integrations  →  RESTful APIs, OAuth 2.0, Webhooks
+```
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect!
+
+*"Build things that solve real problems — and never stop learning."*
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tharun-vaibhav-s-s)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tharunvaibhavss)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tharunvaibhavsaminathan@gmail.com)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
