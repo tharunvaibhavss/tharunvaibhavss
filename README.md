@@ -1,10 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tharun%20Vaibhav%20S%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Dev%20%7C%20AI%20%26%20IoT%20Builder%20%7C%20Data%20Enthusiast&descAlignY=62&descSize=16" width="100%"/>
+
 
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Tharun+Vaibhav+%F0%9F%91%8B;Full+Stack+Developer+%7C+MCA+%40+PSGCAS;Building+AI+%2B+IoT+solutions+that+matter;Hackathon+Winner+%7C+Best+MVP+2026+%F0%9F%8F%86;Turning+Data+into+Decisions+%F0%9F%93%8A)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=tharunvaibhavss&style=flat-square&color=70a5fd&label=Profile+Views)](https://github.com/tharunvaibhavss)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tharun--vaibhav--s--s-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tharun-vaibhav-s-s)
 [![GitHub](https://img.shields.io/badge/GitHub-tharunvaibhavss-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tharunvaibhavss)
 [![Email](https://img.shields.io/badge/Email-tharunvaibhavsaminathan%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tharunvaibhavsaminathan@gmail.com)
@@ -91,55 +91,10 @@ print(me.motto())
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/tharunvaibhavss">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tharunvaibhavss&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-</a>
-<a href="https://github.com/tharunvaibhavss">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharunvaibhavss&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-</a>
-
-</div>
-
----
-
-## 🔥 Streak Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=tharunvaibhavss&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Tharun's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tharunvaibhavss&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/tharunvaibhavss)
-
-</div>
-
----
-
-## 🏆 Trophy Wall
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=tharunvaibhavss&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 💼 Work Experience
 
 <details>
-<summary><b>🏢 Dyzen Consultants — Software Development Intern &nbsp;|&nbsp; 10 Months &nbsp;|&nbsp; 2026 &nbsp;|&nbsp; Remote/Tamil Nadu</b></summary>
+<summary><b>🏢 Dyzen Consultants — Software Development Intern &nbsp;|&nbsp; 10 Months &nbsp;|&nbsp; 2026 &nbsp;|&nbsp; Remote | Tamil Nadu</b></summary>
 
 <br/>
 
