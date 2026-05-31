@@ -13,46 +13,6 @@
 
 ---
 
-## 🧑‍💻 About Me
-
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-```python
-class TharunVaibhav:
-    def __init__(self):
-        self.name        = "Tharun Vaibhav S S"
-        self.location    = "Erode, Tamil Nadu 🇮🇳"
-        self.degree      = "MCA @ PSG College of Arts & Science (2027)"
-        self.role        = "Full Stack Developer & AI/IoT Enthusiast"
-
-        self.stack = [
-            "Python", "Java", "HTML/CSS", "JavaScript",
-            "MySQL", "MongoDB", "Power BI", "Tableau"
-        ]
-
-        self.currently_learning = [
-            "Advanced Machine Learning",
-            "Cloud Deployment (AWS / GCP)",
-            "React & Modern JS Frameworks",
-            "System Design"
-        ]
-
-        self.fun_fact = (
-            "I won Best MVP at a 24-hour national hackathon 🏆 "
-            "and built 4+ live business websites during my internship!"
-        )
-
-    def motto(self):
-        return "Build. Break. Learn. Repeat. 🔁"
-
-me = TharunVaibhav()
-print(me.motto())
-```
-
-<br clear="right"/>
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages**
