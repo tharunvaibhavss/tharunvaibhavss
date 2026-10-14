@@ -166,7 +166,7 @@ A project focused on connecting industrial machine telemetry with data processin
 
 | Qualification | Institution | Period | Score |
 |---|---|---|---|
-| MCA — Master of Computer Applications | PSG College of Arts & Science | 2025–2027 | 80.1%* |
+| MCA — Master of Computer Applications | PSG College of Arts & Science | 2025–2027 | 78%* |
 | B.Sc. Information Technology | PSG College of Arts & Science | 2022–2025 | 75.9% |
 | Higher Secondary | Velalar Vidyalayaa Senior Secondary School | 2022 | 78.6% |
 | Secondary School | Velalar Vidyalayaa Senior Secondary School | 2020 | 78.8% |
