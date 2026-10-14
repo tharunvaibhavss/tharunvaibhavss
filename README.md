@@ -80,7 +80,7 @@ I build technology-driven solutions that connect intelligent systems, data, soft
 
 ## 🚀 Featured Projects
 
-### 1. AI-Powered Industrial Machine Diagnostic System
+### 1. [AI-Powered Industrial Machine Diagnostic System](https://github.com/tharunvaibhavss/final_cat_app)
 **Focus:** Industrial AI · Predictive Diagnostics · Telemetry
 
 A project focused on connecting industrial machine telemetry with data processing and AI-driven diagnostics to support more informed maintenance decisions.
@@ -112,22 +112,6 @@ A project focused on connecting industrial machine telemetry with data processin
 - Website projects built using HTML, CSS, JavaScript, and website-building platforms.
 - Focuses on usability, search visibility, and responsive layouts.
 - Includes business-oriented web experiences.
-
-### 6. 🧊 Interactive 3D Developer Portfolio
-**Focus:** Next.js · Three.js · React Three Fiber · FastAPI
-
-An interactive portfolio designed to present my engineering interests through a futuristic, technical visual experience.
-
-**Highlights:**
-- Interactive 3D environment with a persistent WebGL canvas.
-- Four engineering disciplines: AI, Data, Software, and IoT.
-- Interactive Engineering DNA visualization.
-- 3D project environments with synchronized project navigation.
-- Portrait-centered hero section and technical HUD elements.
-- Responsive and reduced-motion considerations.
-- FastAPI backend with SQLAlchemy and SQLite.
-
-**Live portfolio:** Add your verified Vercel URL here once deployment is successful.
 
 ---
 
@@ -222,19 +206,6 @@ An interactive portfolio designed to present my engineering interests through a 
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tharunvaibhavss&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/tharunvaibhavss)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tharunvaibhavss&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/tharunvaibhavss)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=tharunvaibhavss&theme=tokyonight&hide_border=true)](https://github.com/tharunvaibhavss)
-
-</div>
-
----
 
 ## 🤝 Let's Connect
 
