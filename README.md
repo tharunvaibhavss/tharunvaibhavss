@@ -1,214 +1,257 @@
+ <div align="center">
 
+# Hey there, I'm Tharun Vaibhav S S 👋
 
-<div align="center">
+### Software Engineer | AI, Data & IoT
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Tharun+Vaibhav+%F0%9F%91%8B;Full+Stack+Developer+%7C+MCA+%40+PSGCAS;Building+AI+%2B+IoT+solutions+that+matter;Hackathon+Winner+%7C+Best+MVP+2026+%F0%9F%8F%86;Turning+Data+into+Decisions+%F0%9F%93%8A)](https://git.io/typing-svg)
+**Wild Idea. Wealthy Innovation.**
 
+I build technology-driven solutions that connect intelligent systems, data, software, and the physical world. My interests span AI/ML, full-stack development, IoT systems, data analytics, and interactive digital experiences.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-tharun--vaibhav--s--s-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tharun-vaibhav-s-s)
-[![GitHub](https://img.shields.io/badge/GitHub-tharunvaibhavss-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tharunvaibhavss)
-[![Email](https://img.shields.io/badge/Email-tharunvaibhavsaminathan%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tharunvaibhavsaminathan@gmail.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Engineering+Ideas+into+Solutions;Building+AI+%2B+IoT+Systems;Turning+Data+into+Decisions;Creating+Interactive+Digital+Experiences)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharun-vaibhav-s)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tharunvaibhavss)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tharunvaibhavsaminathan@gmail.com)
 
 </div>
 
 ---
 
+## 👨‍💻 About Me
+
+- 🎓 MCA student at **PSG College of Arts & Science**
+- 💻 Interested in software engineering, AI/ML, data analytics, and IoT
+- 🌐 Experienced in developing responsive websites and web applications
+- 🤖 Exploring intelligent systems, predictive analytics, and automation
+- 📊 Interested in transforming raw data into meaningful insights
+- 🏆 Best MVP award recipient at Hack-Arti-Thon 2.0
+- 🚀 Building an interactive 3D portfolio using modern web technologies
+- 🌱 Continuously learning, experimenting, and turning ideas into practical solutions
+
+> *I believe good engineering combines creative thinking, reliable architecture, and technology that solves real problems.*
+
+---
+
 ## 🛠️ Tech Stack
 
-**Languages**
-
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-
-**Web Technologies**
-
+### Frontend & Interactive Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
-![Wix](https://img.shields.io/badge/Wix-FAAD08?style=flat-square&logo=wix&logoColor=black)
 
-**Databases**
+### Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-4A90E2?style=flat-square&logo=fastapi&logoColor=white)
 
+### Databases
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-**Data & Analytics**
-
+### AI, Data & Analytics
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-**Tools & Platforms**
-
+### Tools & Deployment
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![SEO](https://img.shields.io/badge/SEO_Tools-4285F4?style=flat-square&logo=googlesearchconsole&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+
+---
+
+## 🚀 Featured Projects
+
+### 1. AI-Powered Industrial Machine Diagnostic System
+**Focus:** Industrial AI · Predictive Diagnostics · Telemetry
+
+A project focused on connecting industrial machine telemetry with data processing and AI-driven diagnostics to support more informed maintenance decisions.
+
+### 2. ⚡ [EnerVision — AI Energy Audit System](https://github.com/tharunvaibhavss/enervision)
+**Focus:** AI/ML · IoT · Energy Analytics · Power BI
+
+- Designed around energy data analysis and predictive modelling.
+- Focuses on anomaly detection and energy optimization.
+- Supports sustainability insights through interactive dashboards.
+
+### 3. 💧 [Real-Time Water Quality Monitoring System](https://github.com/tharunvaibhavss/wqt)
+**Focus:** IoT · Sensors · Python · Data Analysis
+
+- Focuses on monitoring water-quality parameters such as pH, TDS, turbidity, and temperature.
+- Connects sensor data with analysis for environmental monitoring.
+- Supports more informed water-quality assessment.
+
+### 4. 🌐 [Technoverse — Intra-College Event Application](https://technoverse.framer.website)
+**Focus:** Web Development · UI/UX · Responsive Design
+
+- Designed an accessible experience for discovering college events.
+- Emphasizes structured navigation and responsive layouts.
+- Built with Framer.
+
+### 5. 🏢 [Client Website Portfolio](https://github.com/tharunvaibhavss/websites)
+**Focus:** Web Development · SEO · Responsive Design
+
+- Website projects built using HTML, CSS, JavaScript, and website-building platforms.
+- Focuses on usability, search visibility, and responsive layouts.
+- Includes business-oriented web experiences.
+
+### 6. 🧊 Interactive 3D Developer Portfolio
+**Focus:** Next.js · Three.js · React Three Fiber · FastAPI
+
+An interactive portfolio designed to present my engineering interests through a futuristic, technical visual experience.
+
+**Highlights:**
+- Interactive 3D environment with a persistent WebGL canvas.
+- Four engineering disciplines: AI, Data, Software, and IoT.
+- Interactive Engineering DNA visualization.
+- 3D project environments with synchronized project navigation.
+- Portrait-centered hero section and technical HUD elements.
+- Responsive and reduced-motion considerations.
+- FastAPI backend with SQLAlchemy and SQLite.
+
+**Live portfolio:** Add your verified Vercel URL here once deployment is successful.
 
 ---
 
 ## 💼 Work Experience
 
 <details>
-<summary><b>🏢 Dyzen Consultants — Software Development Intern &nbsp;|&nbsp; 10 Months &nbsp;|&nbsp; 2026 &nbsp;|&nbsp; Remote | Tamil Nadu</b></summary>
+<summary><b>Dyzen Consultants — Software Development Intern | 2026</b></summary>
 
-<br/>
-
-> ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Wix](https://img.shields.io/badge/Wix-FAAD08?style=flat-square&logo=wix&logoColor=black) ![SEO](https://img.shields.io/badge/SEO-4285F4?style=flat-square&logo=googlesearchconsole&logoColor=white)
-
-- 🚀 Developed and deployed **4+ scalable web applications**, improving user engagement and reducing bounce rate by **25–30%**
-- 🔍 Optimized website performance using **SEO and structured data techniques**, significantly increasing traffic and search visibility
-- 📊 Applied **user behavior analytics** to enhance UI/UX and boost conversion rates across client platforms
-- 🌐 Delivered end-to-end solutions from design to deployment with measurable business impact
+- Developed and deployed web applications for client requirements.
+- Worked with HTML, CSS, JavaScript, Wix, and SEO practices.
+- Applied structured data and website optimization techniques.
+- Used user-behaviour insights to inform UI/UX improvements.
 
 </details>
 
 <details>
-<summary><b>🏢 Thiruvusoft — ERP Software Development Intern &nbsp;|&nbsp; 2 Weeks &nbsp;|&nbsp; 2025 &nbsp;|&nbsp; Tamil Nadu</b></summary>
+<summary><b>Thiruvusoft — ERP Software Development Intern | 2025</b></summary>
 
-<br/>
-
-> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white) ![ETL](https://img.shields.io/badge/ETL-6DB33F?style=flat-square&logoColor=white)
-
-- 🗄️ Streamlined **ERP workflows** using SQL queries and data transformation across Finance, Inventory, and HR modules, cutting manual processing time by **15–20%**
-- ⚡ Improved data pipeline efficiency and structured data handling by **30%**, enhancing system usability and reporting accuracy
-- 📋 Assisted in optimizing data flows across multi-module ERP systems for measurable operational gains
+- Worked with SQL queries and data transformation in ERP workflows.
+- Gained exposure to Finance, Inventory, and HR modules.
+- Assisted with data handling, reporting, and workflow improvements.
 
 </details>
 
 <details>
-<summary><b>🏢 Akkroni Craft — Software Developer Intern &nbsp;|&nbsp; 20 Days &nbsp;|&nbsp; 2025 &nbsp;|&nbsp; Tamil Nadu</b></summary>
+<summary><b>Akkroni Craft — Software Developer Intern | 2025</b></summary>
 
-<br/>
-
-> ![SEO](https://img.shields.io/badge/SEO-4285F4?style=flat-square&logo=googlesearchconsole&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![Design](https://img.shields.io/badge/UI%2FUX-FF61F6?style=flat-square&logo=figma&logoColor=white)
-
-- 📈 Boosted digital presence by improving **website structure through SEO implementation and web data analysis**
-- ✉️ Enhanced brand communication by designing **email templates and business materials** using structured content strategies
+- Contributed to website structure and SEO improvements.
+- Worked on email templates and business communication materials.
+- Supported digital presence and content presentation.
 
 </details>
 
 ---
 
-## 🚀 Featured Projects
+## 🏆 Achievements & Leadership
 
-<div align="center">
-
-| Project | Stack | Highlights |
-|:-------:|:-----:|:-----------|
-| [**⚡ Enervision — AI Energy Audit System**](https://github.com/tharunvaibhavss/enervision) | Python · IoT · AI/ML · Power BI | 🔋 Achieved **20–25% energy savings** via predictive models · Real-time anomaly detection · Interactive sustainability dashboards |
-| [**💧 Water Quality Monitoring System**](https://github.com/tharunvaibhavss/wqt) | Python · IoT · Sensors · Data Analysis | 📡 Real-time monitoring of pH, TDS, turbidity & temperature · Accurate environmental insights from sensor data |
-| [**🌐 Technoverse — Intra-College Event App**](https://technoverse.framer.website) | Framer · UI/UX · Responsive Design | 🎯 Smooth user access · Structured navigation · Optimized performance across all devices |
-| [**🏢 Client Website Portfolio**](https://github.com/tharunvaibhavss/websites) | HTML · CSS · JS · Wix · SEO | 📊 **4+ live business websites** deployed · Responsive design · SEO-optimized · 25–30% bounce rate reduction |
-
-</div>
-
----
-
-## 🏅 Achievements
-
-<div align="center">
-
-| 🎖️ | Achievement | Details |
-|:---:|:------------|:--------|
-| 🏆 | **Best MVP — Hack-Arti-Thon 2.0** | Won Best Minimum Viable Product at a **24-hour national-level hackathon** (2026) — rapid prototyping & problem-solving |
-| 🥇 | **Best Performance — IoT Innovative Expo** | Awarded for innovation and technical excellence in **IoT-Based Technology** (2026) |
-| 🤝 | **Student Coordinator — Hackverse 2026** | Active coordinator supporting ideation and innovation-driven development at the Mini Hackathon |
-| 🌱 | **NABARD Leadership Training** | Completed NABARD-funded training on **Managerial Skills, Leadership & Team Building for Startups** (2025) |
-| 💡 | **Socio-Tech Hackathon 2024** | Designed solutions addressing **Anti-Drug challenges** at a real-world social hackathon |
-| 🇮🇳 | **Smart India Hackathon 2023** | Collaborated on **Student Dropout Analysis** and AICTE innovation challenges |
-| 🎤 | **Resource Person — I&E Bootcamp 2.0** | Delivered sessions on **digital outreach and entrepreneurship** (2026) |
-| ⚖️ | **Evaluator — Entrepreneur 2026** | Assessed innovative ideas and contributed to event success as an official evaluator |
-
-</div>
+| Achievement | Recognition |
+|---|---|
+| 🏆 **Best MVP — Hack-Arti-Thon 2.0** | Best Minimum Viable Product at a 24-hour national-level hackathon, 2026 |
+| 🥇 **IoT Innovative Expo** | Best Performance in IoT-Based Technology, 2026 |
+| 🤝 **Hackverse 2026** | Student Coordinator for a mini hackathon |
+| 🌱 **NABARD Leadership Training** | Managerial skills, leadership, and team building for startups |
+| 💡 **Socio-Tech Hackathon 2024** | Developed ideas addressing anti-drug challenges |
+| 🇮🇳 **Smart India Hackathon 2023** | Collaborated on student dropout analysis and innovation challenges |
+| 🎤 **I&E Bootcamp 2.0** | Resource Person for digital outreach and entrepreneurship |
+| ⚖️ **Entrepreneur 2026** | Evaluator of innovative ideas |
 
 ---
 
 ## 🎓 Education
 
-<div align="center">
-
-| Degree | Institution | Year | Score |
-|:------:|:-----------:|:----:|:-----:|
-| 🎓 **MCA** (Master of Computer Application) | PSG College of Arts & Science | 2025 – 2027 | **80.1%*** |
-| 🎓 **B.Sc Information Technology** | PSG College of Arts & Science | 2022 – 2025 | **75.9%** |
-| 📚 Higher Secondary (12th) | Velalar Vidyalayaa Senior Secondary School | May 2022 | **78.6%** |
-| 📚 Secondary School (10th) | Velalar Vidyalayaa Senior Secondary School | March 2020 | **78.8%** |
-
-</div>
+| Qualification | Institution | Period | Score |
+|---|---|---|---|
+| MCA — Master of Computer Applications | PSG College of Arts & Science | 2025–2027 | 80.1%* |
+| B.Sc. Information Technology | PSG College of Arts & Science | 2022–2025 | 75.9% |
+| Higher Secondary | Velalar Vidyalayaa Senior Secondary School | 2022 | 78.6% |
+| Secondary School | Velalar Vidyalayaa Senior Secondary School | 2020 | 78.8% |
 
 ---
 
 ## 📜 Certifications
 
-<div align="center">
+- Network Security — Great Learning
+- Data Science 101 — IBM
+- Python for Data Science — NPTEL
+- Fundamentals of Digital Marketing — Google
+- AI and Business Strategy: Case Studies — LinkedIn
+- Learning Excel Desktop (Microsoft 365) — LinkedIn
+- Power BI for Beginners — Simplilearn
+- Ethical Hacking for Beginners — Simplilearn
+- Linux Shell Programming — PSG College of Arts & Science
+- Automation for RPA Developers — UiPath Academy
+- Train ML Models for Document Understanding — UiPath Academy
+- UI Automation with Modern Design in Studio — UiPath Academy
+- Excel Automation with Modern Experience in Studio — UiPath Academy
+- Control Flow in Studio — UiPath Academy
+- Variables, Constants and Arguments in Studio — UiPath Academy
+- Build Your First Process with Studio — UiPath Academy
+- Explore Automation Development with UiPath Studio — UiPath Academy
 
-| 🏅 | Course | Institution |
-|:---:|:-------|:-----------:|
-| 🔐 | **Network Security** | Great Learning |
-| 🤖 | **Attended Automation for RPA Developers** | UiPath Academy |
-| 🧠 | **Train ML Models for Document Understanding** | UiPath Academy |
-| 🖥️ | **UI Automation with Modern Design in Studio** | UiPath Academy |
-| 📊 | **Excel Automation with Modern Experience in Studio** | UiPath Academy |
-| 🔄 | **Control Flow in Studio** | UiPath Academy |
-| 🧮 | **Variables, Constants and Arguments in Studio** | UiPath Academy |
-| ⚙️ | **Build your first process with Studio** | UiPath Academy |
-| 🔍 | **Explore Automation Development with UiPath Studio** | UiPath Academy |
-| 📈 | **Data Science 101** | IBM |
-| 🐍 | **Python for Data Science** | NPTEL |
-| 📣 | **Fundamentals of Digital Marketing** | Google |
-| 💼 | **AI and Business Strategy: Case Studies** | LinkedIn |
-| 🗣️ | **How to Talk to Anyone (Blinkist)** | LinkedIn |
-| 📉 | **Learning Excel Desktop (Microsoft 365)** | LinkedIn |
-| 📊 | **Power BI for Beginners** | Simplilearn |
-| 🛡️ | **Ethical Hacking for Beginners** | Simplilearn |
-| 🐧 | **Linux Shell Programming** | PSG College of Arts & Science |
-
-</div>
-
-<div align="center">
-
-![UiPath](https://img.shields.io/badge/UiPath_Academy-FA4616?style=flat-square&logo=uipath&logoColor=white)
-![IBM](https://img.shields.io/badge/Data_Science_101-054ADA?style=flat-square&logo=ibm&logoColor=white)
-![NPTEL](https://img.shields.io/badge/Python_for_Data_Science-FF6B00?style=flat-square&logoColor=white)
-![Google](https://img.shields.io/badge/Digital_Marketing-4285F4?style=flat-square&logo=google&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/AI_%26_Business_Strategy-0077B5?style=flat-square&logo=linkedin&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/Learning_Excel_365-0077B5?style=flat-square&logo=linkedin&logoColor=white)
-![Simplilearn](https://img.shields.io/badge/Power_BI_Beginners-02A9E0?style=flat-square&logo=powerbi&logoColor=white)
-![Simplilearn](https://img.shields.io/badge/Ethical_Hacking-E00?style=flat-square&logo=hackthebox&logoColor=white)
-![GreatLearning](https://img.shields.io/badge/Network_Security-0B3D91?style=flat-square&logo=cisco&logoColor=white)
-![PSG](https://img.shields.io/badge/Linux_Shell_Programming-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-</div>
 ---
 
 ## 🌱 Currently Learning
 
-```
-🤖 Machine Learning     →  Supervised Learning, Predictive Modeling, Anomaly Detection
-☁️  Cloud Platforms      →  AWS (EC2, S3), GCP Basics, Serverless Architecture
-⚛️  React.js             →  Hooks, Component Design, REST API Integration
-🗄️  System Design        →  Scalable Architecture, Microservices, Caching
-📊 Advanced Analytics   →  Time Series Forecasting, Dashboard Optimization
-🔗 APIs & Integrations  →  RESTful APIs, OAuth 2.0, Webhooks
-```
+- 🤖 **Machine Learning:** Predictive modelling, anomaly detection, and applied AI
+- ☁️ **Cloud Platforms:** AWS fundamentals, GCP, and serverless architecture
+- ⚛️ **Frontend Engineering:** React patterns, component design, and API integration
+- 🏗️ **System Design:** Scalable architecture, microservices, and caching
+- 📊 **Advanced Analytics:** Time-series forecasting and dashboard optimization
+- 🔗 **API Development:** REST APIs, authentication, and integrations
 
 ---
 
+## 📊 GitHub Activity
+
 <div align="center">
 
-### 💬 Let's Connect!
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tharunvaibhavss&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/tharunvaibhavss)
 
-*"Build things that solve real problems — and never stop learning."*
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tharunvaibhavss&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/tharunvaibhavss)
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tharun-vaibhav-s-s)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tharunvaibhavss)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tharunvaibhavsaminathan@gmail.com)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tharunvaibhavss&theme=tokyonight&hide_border=true)](https://github.com/tharunvaibhavss)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+---
+
+## 🤝 Let's Connect
+
+I'm interested in connecting with developers, collaborating on meaningful projects, and exploring opportunities in software engineering, AI, data, and IoT.
+
+<div align="center">
+
+**"Build with curiosity. Engineer with purpose. Innovate without limits."**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tharun_Vaibhav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharun-vaibhav-s)
+[![GitHub](https://img.shields.io/badge/GitHub-tharunvaibhavss-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tharunvaibhavss)
+[![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tharunvaibhavsaminathan@gmail.com)
+
+</div>
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer)
+
+</div>
